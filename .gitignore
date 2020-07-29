@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+*.csv
+*.xlsx
+*.xls
+*.tsv
+*.gz
+.idea/
+__pycache__/
+assets/
+.DS_store
+data/
