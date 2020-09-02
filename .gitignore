@@ -9,3 +9,4 @@ __pycache__/
 assets/
 .DS_store
 data/
+*.h5
