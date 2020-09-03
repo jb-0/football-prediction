@@ -10,3 +10,4 @@ assets/
 .DS_store
 data/
 *.h5
+swear_words.txt
