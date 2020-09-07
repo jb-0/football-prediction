@@ -1,4 +1,4 @@
-# NLP Football Prediction
+# NLP and Unsupervised learning using Champions League Final 2018 Tweets
 This repository forms my final project submission for the General Assembly Data Science Essentials course. I utilised NLP and KMeans to identify topics within a Twitter dataset.
 
 The repository comprises of two jupyter notebooks and two output files:
